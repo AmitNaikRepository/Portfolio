@@ -4,6 +4,8 @@
 # problem statement 
 ### Problem set was very simple analyse data and Perform Different machine learning models for the better prediction cycle
 
+### Please Go through Jupyter ![Notebook=>](https://github.com/AmitNaikRepository/Portfolio/blob/main/Price_Prediction/feedback_based_rating_predictions.ipynb)
+
 
 # Overview 
 ![alt text](https://github.com/AmitNaikRepository/Portfolio/blob/main/Price_Prediction/images/ecom2.JPG?raw=true)
@@ -24,4 +26,4 @@
 # About me 
 ![alt text](https://github.com/AmitNaikRepository/Portfolio/blob/main/Price_Prediction/images/ecom7.JPG?raw=true)
 
-If you wanted to connect please connect me on: ![linkedin](https://www.linkedin.com/in/amit-naik-6264d/)
+If you wanted to connect please connect me on: [linkedin](https://www.linkedin.com/in/amit-naik-6264d/)
